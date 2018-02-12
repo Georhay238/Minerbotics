@@ -1,0 +1,30 @@
+<!DOCTYPEhtml>
+	<html>
+		<title>Negaunee Minerbotics</title>
+	<body>
+		<style>
+		body {
+		background-color: rgb(236, 230, 39);
+		}
+		.words {
+		color: rgb(5, 31, 158);
+		}
+		img {
+		transform: rotate(90deg)
+		}
+		</style>
+	<a href="Index++.html">Minerbotics Homepage</a>
+	<a href="FIRST++.html">FIRST Robotics</a>
+	<a href="Robot++.html">Robot</a>
+	<a href="Events++.html">Events</a>
+	
+	<h1 class="words">Welcome to Minerbotics!</h1>
+	<h2 class="words">Negaunee's Robotics Team!</h2> <br><br><br><br><br>
+	<img src="images/Comrade.jpg" alt="our robot and a team banner" height="400" border="2px"> <br><br><br><br><br>
+	<p class="words">NHS Minerbotics is a <a href="https://www.firstinspires.org/robotics/frc">FIRST Robotics<a> team aimed at
+	organizing a team to build a robot.  This robot is meant to fill a number of roles
+	to synergize with other teams and complete objectives.<br>
+	This is the <strong>official Minerbotics</strong> webpage created as
+	a fun project for the team and to serve as an easy nexus for robot-related information.</p> 
+
+	</body>
