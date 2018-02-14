@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+	<title>Minerbotics Robot</title>
+<body>
+	<style>
+		body {
+		background-color: rgb(236, 230, 39);
+		}
+		.words {
+		color: rgb(5, 31, 158);
+		}
+		img {
+		transform: rotate(90deg)
+		}
+		</style>
+	
+	<a href="Index++.html">Minerbotics Homepage</a>
+	<a href="FIRST++.html">FIRST Robotics</a>
+	<a href="Robot++.html">Robot</a>
+	<a href="Events++.html">Events</a>
+	
+	<h1 class="words">Meet the Robot!</h1> <br><br><br><br><br>
+	
+	<img src="images/Robit_1.jpg" alt="A picture of our robot"  rotate="90" height="300px" border="2px">  <img src="images/Robit_2.jpg" alt="Another picture of our robot" height="300px" border="2px"> <br><br><br>
+	
+	<h2 class="words">The Negaunee Minerbotics robot</h2>
+	
+	<p class="words"></p>
+	
+</body>
+</html>
